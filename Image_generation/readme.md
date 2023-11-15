@@ -16,7 +16,7 @@ python data_super_resolution.py
 ## Color Switching
 Execute the file classify.ipynb command to run color switching (change the paths inside as you need)
 
-## Proximity Data Generation 
+## Controlled Text-Image Pair Generation
 Change the path in line603, line 641 and line 653 in modify.py to your local path. 
 Execute the following command to start generation.
 ```
