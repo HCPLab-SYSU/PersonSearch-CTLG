@@ -1,8 +1,8 @@
 # Contrastive Transformer Learning with Proximity Data Generation for Text-Based Person Search
 
-Official code for "Contrastive Transformer Learning with Proximity Data Generation for Text-Based Person Search"
-IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT), 2023.
-Hefeng Wu, Weifeng Chen, Zhibin Liu, Tianshui Chen, Zhiguang Chen, Liang Lin.
+Official code for "Contrastive Transformer Learning with Proximity Data Generation for Text-Based Person Search" <br />
+IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT), 2023. <br />
+Hefeng Wu, Weifeng Chen, Zhibin Liu, Tianshui Chen, Zhiguang Chen, Liang Lin. <br />
 
 ## Pretrained Model
 Put VIT `vit_base_patch16_384.pth` into `models/`.
