@@ -20,6 +20,7 @@ dataset/
         ├── test_query
         └── train_query
 ```
+
 ## Training + Testing 
 ```
 bash run.sh
@@ -27,3 +28,13 @@ bash run.sh
 
 ## Checkpoints
 The trained checkpoint and log can be found here: [Google Drive](https://drive.google.com/drive/folders/17ny2ZPPRHiEoON6NxLK38AlgyDkfIuIH?usp=sharing).
+
+## Citation
+'''
+@article{Wu2023PersonSearch,
+  title={Contrastive Transformer Learning with Proximity Data Generation for Text-Based Person Search},
+  author={Hefeng Wu and Weifeng Chen and Zhibin Liu and Tianshui Chen and Zhiguang Chen and Liang Lin},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  year={2023}
+}
+'''
